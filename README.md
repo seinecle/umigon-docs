@@ -22,4 +22,4 @@ This repository contains the documentation for Umigon.
 
  ⑦ [umigon-explain](https://github.com/seinecle/umigon-explain). In the preceding steps (2 to 6), all the  procedures that were applied and all the information that got extracted are carefully stored according to the data model (1). This repo performs a translation from the data model to a language humans (end users) can understand and appreciate, in plain text, html or json, and in 107 languages.
 
-⑧ umigon-docs(https://github.com/seinecle/umigon-docs). The repo containing the documentation for Umigon, such as this document.
+⑧ [umigon-docs](https://github.com/seinecle/umigon-docs). The repo containing the documentation for Umigon, such as this document.
