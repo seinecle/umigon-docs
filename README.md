@@ -2,15 +2,15 @@
 
 Umigon is a free application for sentiment analysis available as a [web app and as an API here](https://nocodefunctions.com/umigon/sentiment_analysis_tool.html).
 
-This repository contains the documentation for Umigon
+This repository contains the documentation for Umigon.
 
 # Overview of the coding architecture
 
-This schema describes the sub-projects hosted in open source on Github which compose Umigon:
+Click on any blue box to get to the repo and get more details (coming soon).
 
-<img src="https://docs.google.com/drawings/d/e/2PACX-1vQDDpnqjIxHu0u0_Xu0ozKdANNlYBLvdIVEy3ESIoQU8lBpswpZQmR1uVzP6QKERl8L0_N0nVnhPXYw/pub?w=627&amp;h=465">
+![a description of the sub-projects composing Umigon](https://docs.google.com/drawings/d/e/2PACX-1vQDDpnqjIxHu0u0_Xu0ozKdANNlYBLvdIVEy3ESIoQU8lBpswpZQmR1uVzP6QKERl8L0_N0nVnhPXYw/pub?w=627&h=465)
 
-Click on a blue box to get to the repo and get more details. Here is the overview:
+Here is the overview:
 
 ① Definitions are important. umigon-model describes a data model that allows to manipulate precisely different parts of a text: words, puncutation, emojis, emoticons, hashtags and more.
 
