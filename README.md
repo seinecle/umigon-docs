@@ -6,7 +6,7 @@ This repository contains the documentation for Umigon.
 
 # Overview of the architecture
 
-![a description of the sub-projects composing Umigon](<img src="https://docs.google.com/drawings/d/e/2PACX-1vQDDpnqjIxHu0u0_Xu0ozKdANNlYBLvdIVEy3ESIoQU8lBpswpZQmR1uVzP6QKERl8L0_N0nVnhPXYw/pub?w=940&amp;h=698">)
+![a description of the sub-projects composing Umigon](https://docs.google.com/drawings/d/e/2PACX-1vQDDpnqjIxHu0u0_Xu0ozKdANNlYBLvdIVEy3ESIoQU8lBpswpZQmR1uVzP6QKERl8L0_N0nVnhPXYw/pub?w=627&h=465)
 
 ① [umigon-model](https://github.com/seinecle/umigon-model): because definitions are important. umigon-model describes a data model that allows to manipulate precisely different parts of a text: words, puncutation, emojis, emoticons, hashtags and more.
 
